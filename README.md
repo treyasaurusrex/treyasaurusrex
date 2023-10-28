@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @treyasaurusrex
-- 👀 I’m interested in learning as much as i can
-- 🌱 I’m currently learning how to create mods for the sims 4
-- 💞️ I’m looking to collaborate on anything. Always looking to learn something new
+- 👀 I’m passionate about learning.
+- 🌱 I’m currently learning how to create mods for The Sims 4.
+- 💞️ I’m looking to collaborate on anything. Always willing to learn something new.
 <!---
 - 📫 How to reach me ...
 --->
